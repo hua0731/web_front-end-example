@@ -68,3 +68,31 @@ body {
     /* 陰影 */
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
+
+.btn-primary {
+    background-color: rgb(50, 215, 218) !important; /* 替換成你想要的顏色 */
+    color: rgb(51, 48, 48) !important;
+}
+/* 第一個按鈕的背景顏色 */
+.btn-first {
+    background-color: rgb(235, 121, 195) !important; /* 替換成你想要的顏色 */
+    color: white !important;
+}
+
+/* 第二個按鈕的背景顏色 */
+.btn-second {
+    background-color: rgb(180, 150, 251) !important;
+    color: white !important;
+}
+
+/* 第三個按鈕的背景顏色 */
+.btn-third {
+    background-color: rgb(163, 204, 251) !important;
+    color: white !important;
+}
+
+/* 第四個按鈕的背景顏色 */
+.btn-fourth {
+    background-color: rgb(172, 241, 165) !important;
+    color: rgb(123, 113, 113) !important;
+}
